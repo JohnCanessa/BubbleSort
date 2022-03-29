@@ -8,7 +8,7 @@ It runs on O(n^2) time and O(1) space.
 In interested I have some additional comments in the following 
 post in my blig:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/03/30/bubble-sort-in-java/
 
 Keep on reading and experimenting. It is one of the best ways 
 to learn.
